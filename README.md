@@ -1,2 +1,2 @@
-# librarryManagementSysytem
+# libraryManagementSystem
 LMS project
